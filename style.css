@@ -1,0 +1,83 @@
+.title {
+    text-align: center;
+    padding-top: 50px;
+    font: small-caps bold 40px sans-serif;
+    color: darkorange;
+    margin-top: 10px;
+    
+}
+
+
+body {
+    background-image: url('./img/Tom_Lea_-_2000_Yard_Stare-e1571186075357.webp'); 
+    background-size: cover; 
+  }
+
+
+  .line {
+    border-top: 6px solid darkorange; 
+    width: 100px; 
+    margin: 20px auto;
+    
+  }
+  
+  .subtext {
+    text-align: center;
+    font: small-caps 20px sans-serif;
+    margin-top: 10px; 
+  }
+
+  .white-box {
+    width: 800px; 
+    height: 150px; 
+    background-color: white;
+    padding: 20px; 
+    margin: 40px auto;
+    text-align: center;
+  }
+  
+  .content {
+    margin-bottom: 20px;
+    display: inline-block;
+    margin: 0 60px;
+    text-align: center;
+  }
+  
+  .content img {
+    width: 50px; 
+    height: auto;
+    margin: 0 auto;
+    display: block;
+  }
+  
+  .content p {
+    margin: 10px 0 0; 
+    padding-top: 20px;
+    font-size: 25px;
+   
+  }
+  
+ .undertext {
+    font-size: 15px;
+    margin-top: 20px; 
+ }
+   
+ a {
+    text-align: center;
+    font-size: 15px;
+    display: block;
+    color: black;
+ }
+
+
+ .end {
+    width: 100%;
+    height: 100px;
+    background-color: rgb(37, 36, 39);
+    color: rgb(17, 75, 43);
+    text-align: center;
+    padding-top: 50px;
+    position: absolute;
+    bottom: 0px;
+    font-size: 20px;
+}
